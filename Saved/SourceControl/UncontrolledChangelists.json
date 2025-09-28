@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"C:/MyProject3/Content/sus/StaticMeshes/sus.uasset",
 				"C:/MyProject3/Content/testasset_HLOD0_Instancing.uasset",
 				"C:/MyProject3/Content/__ExternalActors__/testasset/1/O6/UNWGOTTP802K4QE48M5TPK.uasset",
@@ -158,6 +159,9 @@
 				"C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Interchange/Assets/Content/gltf/M_Default.uasset",
 				"C:/MyProject3/Content/sus/Textures/sus_texture_0.uasset",
 				"C:/MyProject3/Content/sus/Materials/material_0.uasset"
+=======
+				"/Users/alex/Documents/GitHub/TROUGH/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/8I/HFL05AWIVBP8M8UXTV4H5K.uasset"
+>>>>>>> Stashed changes
 			]
 		}
 	]
