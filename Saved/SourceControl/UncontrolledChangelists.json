@@ -6,6 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 				"C:/MyProject3/Content/sus/StaticMeshes/sus.uasset",
 				"C:/MyProject3/Content/testasset_HLOD0_Instancing.uasset",
 				"C:/MyProject3/Content/__ExternalActors__/testasset/1/O6/UNWGOTTP802K4QE48M5TPK.uasset",
@@ -161,6 +162,18 @@
 				"C:/MyProject3/Content/sus/Materials/material_0.uasset"
 =======
 				"/Users/alex/Documents/GitHub/TROUGH/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/8I/HFL05AWIVBP8M8UXTV4H5K.uasset"
+>>>>>>> Stashed changes
+=======
+				"/Users/alex/Documents/GitHub/TROUGH/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/8I/HFL05AWIVBP8M8UXTV4H5K.uasset",
+				"/Users/alex/Documents/GitHub/TROUGH/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.uasset",
+				"/Users/alex/Documents/GitHub/TROUGH/Content/LevelPrototyping/Meshes/SM_Cylinder.uasset",
+				"/Users/alex/Documents/GitHub/TROUGH/Content/LevelPrototyping/Meshes/SM_ChamferCube.uasset",
+				"/Users/alex/Documents/GitHub/TROUGH/Content/LevelPrototyping/Interactable/Target/Assets/SM_TargetBaseMesh.uasset",
+				"/Users/alex/Documents/GitHub/TROUGH/Content/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularGlow.uasset",
+				"/Users/alex/Documents/GitHub/TROUGH/Content/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularBand.uasset",
+				"/Users/alex/Documents/GitHub/TROUGH/Content/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Edge.uasset",
+				"/Users/alex/Documents/GitHub/TROUGH/Content/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Corner.uasset",
+				"/Users/alex/Documents/GitHub/TROUGH/Content/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_Door.uasset"
 >>>>>>> Stashed changes
 			]
 		}
