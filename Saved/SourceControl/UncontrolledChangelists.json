@@ -297,7 +297,21 @@
 				"/Users/johnnytran/Downloads/Code/Games/Trough/TROUGH/Content/__ExternalObjects__/Levels/TestingMap/5/JI/8DFWY14VIJVOXQW75T3L9P.uasset",
 				"/Users/johnnytran/Downloads/Code/Games/Trough/TROUGH/Content/__ExternalObjects__/Levels/TestingMap/9/MB/45B0SKLJDLKVT6CSYSXJ4T.uasset",
 				"/Users/johnnytran/Downloads/Code/Games/Trough/TROUGH/Content/__ExternalObjects__/Levels/TestingMap/E/S0/KONMYT0SSRWOTKOP6VO18N.uasset",
-				"/Users/johnnytran/Downloads/Code/Games/Trough/TROUGH/Content/Levels/TestingMap.umap"
+				"/Users/johnnytran/Downloads/Code/Games/Trough/TROUGH/Content/Levels/TestingMap.umap",
+				"/Users/johnnytran/Downloads/Code/Games/Trough/TROUGH/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"/Users/johnnytran/Downloads/Code/Games/Trough/TROUGH/Content/Characters/Player/Meshes/Climbing_Character.uasset",
+				"/Users/johnnytran/Downloads/Code/Games/Trough/TROUGH/Content/Characters/Player/Anims/Climbing_Character_Anim.uasset",
+				"/Users/johnnytran/Downloads/Code/Games/Trough/TROUGH/Content/Characters/Player/Materials/Alpha_Body_MAT.uasset",
+				"/Users/johnnytran/Downloads/Code/Games/Trough/TROUGH/Content/Characters/Player/Materials/Alpha_Joints_MAT.uasset",
+				"/Users/johnnytran/Downloads/Code/Games/Trough/TROUGH/Content/Characters/Player/Meshes/Climbing_Character_PhysicsAsset.uasset",
+				"/Users/johnnytran/Downloads/Code/Games/Trough/TROUGH/Content/Characters/Player/Skeleton/Climbing_Character_Skeleton.uasset",
+				"/Users/johnnytran/Downloads/Code/Games/Trough/TROUGH/Content/Characters/Player/Blueprints/BP_ClimbingPlayer.uasset",
+				"/Users/johnnytran/Downloads/Code/Games/Trough/TROUGH/Content/Characters/Player/AnimBP/AnimBP_ClimbingPlayer.uasset",
+				"/Users/johnnytran/Downloads/Code/Games/Trough/TROUGH/Content/Levels/ClimbingTesting.umap",
+				"/Users/johnnytran/Downloads/Code/Games/Trough/TROUGH/Content/ThirdPerson/Blueprints/ABP_ThirdPerson.uasset",
+				"/Users/johnnytran/Downloads/Code/Games/Trough/TROUGH/Content/ThirdPerson/Climbing_Down.uasset",
+				"/Users/johnnytran/Downloads/Code/Games/Trough/TROUGH/Content/ThirdPerson/Climbing_Right.uasset",
+				"/Users/johnnytran/Downloads/Code/Games/Trough/TROUGH/Content/Characters/Player/Blueprints/Character_Blueprints/BP_ClimbingPlayer.uasset"
 			]
 		}
 	]
