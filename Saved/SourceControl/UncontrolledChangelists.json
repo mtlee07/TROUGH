@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/jhopk/Downloads/Code/GameStuff/TROUGH/Content/Levels/TestingMap.umap",
+				"C:/Users/jhopk/Downloads/Code/GameStuff/TROUGH/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/jhopk/Downloads/Code/GameStuff/TROUGH/Content/ThirdPerson/Blueprints/BP_ThirdPersonRagdoll.uasset",
 				"C:/TROUGH/Content/armMotion.uasset",
 				"C:/TROUGH/Content/ThirdPerson/Blueprints/ABP_ThirdPerson.uasset",
 				"C:/TROUGH/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
